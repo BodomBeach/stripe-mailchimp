@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://stripe-mailchimps.herokuapp.com/charges/new
 
-Things you may want to cover:
+J'en peux plus de cette formation. J'ai envie de courir tout nu dans un champ de blé et sentir les épis qui me frottent délicatement les ENV['secret_key']
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Nicolas Bertin, Tom Ballu, Ludovic Bourgoin
